@@ -1,0 +1,1 @@
+return dp[nStairs]=countDistinctWayToClimbStair(nStairs-1)+countDistinctWayToClimbStair(nStairs-2);
